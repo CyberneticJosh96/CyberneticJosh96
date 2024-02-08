@@ -58,4 +58,4 @@ My journey in information technology  has led me to develop a passion for cybers
 ## Projects
 - SOC Automation Project
 - <a href="https://github.com/CyberneticJosh96/Network-Bandwidth-Monitor">Network Bandwidth Monitor</a>
-- Incident Response Script
+- <a href="https://github.com/CyberneticJosh96/Incident-Response-Script/tree/main">Incident Response Script</a>
