@@ -1,7 +1,7 @@
 # Hello, I'm Josh
 <a href="https://www.linkedin.com/in/joshua-wilson-a270b9269/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a cybersecurity enthusiast with a profound interest in technology and a dedication to solving complex problems.
+I am a cybersecurity professional with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
 
