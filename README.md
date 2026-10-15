@@ -28,9 +28,9 @@ A read-only AI agent on Microsoft Foundry that answers security questions from t
 | Project | What it is |
 | --- | --- |
 | KRI Collection Agent (Microsoft 365 Copilot) | An AI agent to automate key risk indicator collection across the Microsoft environment, replacing a manual process that depended on a single analyst. Includes data source mapping, least privilege service account design, agent operating constraints, and output validation against the manual baseline |
-| AI Governance Document Set | The templates my organization uses to govern AI systems: agent design records, a centralized agent inventory, a requirements exception register with risk acceptance and review dates, and an agent security assessment checklist covering identity, attribution, data handling, and human review checkpoints |
+| AI Governance Document Set | Templates that can be used to govern AI systems: agent design records, a centralized agent inventory, a requirements exception register with risk acceptance and review dates, and an agent security assessment checklist covering identity, attribution, data handling, and human review checkpoints |
 | Active Directory Homelab | Windows Server domain with DHCP and RAS/NAT, simulating an enterprise environment |
-| [Incident Response Automation](https://github.com/CyberneticJosh96/Incident-Response-Script/tree/main) | Python (`subprocess`, `concurrent.futures`) to automate triage and isolation steps |
+
 
 ## Tools
 
